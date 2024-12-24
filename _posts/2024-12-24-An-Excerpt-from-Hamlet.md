@@ -3,7 +3,7 @@ layout: post
 title:  An Excerpt from Hamlet
 date: 24/12/2024
 tags: ['tragedy', 'excerpt', 'words']
-categories: ['exhibit', 'books and essays']
+categories: ['pedagogy', 'notes']
 ---
 
 **Lord Polonius:** What do you read, my lord?
