@@ -9,3 +9,5 @@ categories: ['pedagogy', 'notes']
 **Lord Polonius:** What do you read, my lord?
 
 **Hamlet:** Words, words, words.
+
+— *Hamlet*, Act 2, Scene 2
