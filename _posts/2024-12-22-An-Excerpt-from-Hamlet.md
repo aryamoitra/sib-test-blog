@@ -2,7 +2,7 @@
 layout: post
 title:  An Excerpt from Hamlet
 date: 22/12/2024
-tags: ['tragedy', 'excerpt']
+tags: ['tragedy', 'excerpt', 'words']
 categories: ['pedagogy', 'notes']
 ---
 
